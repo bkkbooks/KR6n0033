@@ -1,0 +1,174 @@
+canonical_identifier: bkk:krp/KR6n0033/v1
+canonical_location: https://kanripo.org/bkk/KR6n0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論料簡
+  identifiers:
+    alt_id:
+    - X48n0806
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0806.xml
+    old_id: X48n0806
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0033_000.yaml, hash: 'sha256:1338f4893859d763e42e05ebd085c2c525577064a4ad1cdf9b96ac723ac973cd'}
+  - {seq: 1, filename: KR6n0033_001.yaml, hash: 'sha256:078da427fc231b51194c5117d083a5f9f78cdd0ba5abc92fd9f7a4697d660a9b'}
+  - {seq: 2, filename: KR6n0033_002.yaml, hash: 'sha256:197c755ab9a8ecd854e28b992befe800b873acec14f63a016ed0a594ca3df958'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0033_001.markers.yaml, hash: 'sha256:52316233ed4cdc184dc1108bff2f99ffb8012bd425776086978952a883dcfb10'}
+  - {seq: 2, role: markers, filename: assets/KR6n0033_002.markers.yaml, hash: 'sha256:6c975c24c53604fdd8692bc24b2e1034eca3c50b6a31a24ad3aac34948e7d488'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 21381
+  label: 唯識論料簡上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-2
+    span:
+    - body
+    - 66
+    - 66
+  label: 一教起所因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-3
+    span:
+    - body
+    - 840
+    - 840
+  label: 二漸頓時分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-4
+    span:
+    - body
+    - 7093
+    - 7093
+  label: 三輪益差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-5
+    span:
+    - body
+    - 9714
+    - 9714
+  label: 四義益不同
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-6
+    span:
+    - body
+    - 12329
+    - 12329
+  label: 五所被情機
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0033_X_001-mulu-7
+    span:
+    - body
+    - 12773
+    - 12773
+  label: 六所明宗旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0033_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 30323
+  label: 唯識論料簡下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0033_X_002-mulu-1
+    span:
+    - body
+    - 12355
+    - 12355
+  label: 七彰其體性
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0033_X_002-mulu-2
+    span:
+    - body
+    - 26805
+    - 26805
+  label: 八顯其所依
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0033_X_002-mulu-3
+    span:
+    - body
+    - 30279
+    - 30279
+  label: 九辨教得名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0033_X_002-mulu-4
+    span:
+    - body
+    - 30289
+    - 30289
+  label: 十判釋文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0033_X_002-mulu-5
+    span:
+    - body
+    - 30299
+    - 30299
+  label: 結語
+  type: mulu
+  level: 1
+hash: sha256:f4f411fba811884f4db6ae832407fbeb0eef2e0e8a9ac21a20f78621c266bd58
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

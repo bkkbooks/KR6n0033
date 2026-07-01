@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0033/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論料簡
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0806.xml
+    old_id: X48n0806
+hash: sha256:1338f4893859d763e42e05ebd085c2c525577064a4ad1cdf9b96ac723ac973cd
